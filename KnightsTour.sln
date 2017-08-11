@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubEDA2", "SubEDA2\SubEDA2.csproj", "{A1979BE6-9D26-40C1-8FC5-95D69413BC9A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnightsTour", "SubEDA2\KnightsTour.csproj", "{A1979BE6-9D26-40C1-8FC5-95D69413BC9A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
